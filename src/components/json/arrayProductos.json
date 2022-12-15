@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camisa leñador rojo",
+    "precio": 25000,
+    "stock": 30,
+    "categoria": "hombre",
+    "imagen": "https://cdn.shopify.com/s/files/1/0038/0089/1481/products/product-image-409165731_360x.jpg?v=1571733437"
+  },
+  {
+    "id": 2,
+    "nombre": "Camisa leñador azul",
+    "precio": 24000,
+    "stock": 40,
+    "categoria":"hombre",
+    "imagen": "https://cdn.shopify.com/s/files/1/0038/0089/1481/products/product-image-409165743_360x.jpg?v=1571733437"
+  },
+  {
+    "id": 3,
+    "nombre": "Vestido verano turquesa",
+    "precio": 18000,
+    "stock": 35,
+    "categoria": "mujer",
+    "imagen": "https://res.cloudinary.com/lippi-outdoor/image/upload/c_limit,dpr_2.0,f_auto,h_1200,q_100,w_1200/v1/media/catalog/product/1/5/155_1_2.jpg?_i=AB"
+  },
+  {
+    "id": 4,
+    "nombre": "Vestido verano amarillo",
+    "precio": 23000,
+    "stock": 45,
+    "categoria":"mujer",
+    "imagen": "https://www.hola.com/imagenes/seleccion/20200619170516/vestidos-punto-algodon-verano/0-838-94/vestido-canale-verano-a.webp?filter=high"
+  },
+  {
+    "id": 5,
+    "nombre": "Sandalias egipcias",
+    "precio": 56000,
+    "stock": 23,
+    "categoria": "mujer",
+    "imagen": "https://www.mercadisfraces.es/15944-thickbox_default/sandalias-romanas-o-egipcias.jpg"
+  }
+]

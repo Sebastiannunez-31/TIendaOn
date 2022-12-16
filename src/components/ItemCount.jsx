@@ -26,9 +26,9 @@ const ItemCount = ({ stockItems }) => {
   };
 
   return (
-    <div className="container">
-      <div className="row mb-2">
-        <div className="col-md-2">
+    <div className="container text-center">
+      <div className="row mb-3">
+        <div className="col-md-12">
           <div
             className="btn-group"
             role="group"
@@ -56,7 +56,7 @@ const ItemCount = ({ stockItems }) => {
       </div>
 
       <div className="row">
-        <div className="col-md-2">
+        <div className="col-md-12">
           <button className="btn btn-outline-primary" onClick={onAdd}>
             Agregar al carrito
           </button>
